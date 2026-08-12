@@ -3,7 +3,7 @@
 
 I'm Ahsan, from Bangladesh, building my skills as a data analyst, one project at a time. I mainly work with Excel, SQL and Power BI, while continuing to develop my Python skills for data analysis.
 
-This page is where I keep track of the projects I'm working on, the skills I'm practicing, and what I'm learning along the way.
+This page is where I keep track of the projects I'm working on, the skills I'm practicing and what I'm learning along the way.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsanxdata/">
@@ -33,7 +33,7 @@ This page is where I keep track of the projects I'm working on, the skills I'm p
 ## Current Project
 
 ### HR Attrition Analysis
-`Power BI · SQL · Excel`
+`Power BI` `SQL` `Excel`
 
 Exploring employee attrition and the factors associated with turnover. The analysis covers departments, job roles, and employee-level factors, using SQL and Power BI to examine and present the findings.
 
