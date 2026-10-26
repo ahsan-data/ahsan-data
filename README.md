@@ -1,76 +1,77 @@
 # Ahsan Chowdhury
-### Data Analyst | Excel · SQL · Power BI · Python
+### Aspiring Data Analyst | Excel · SQL · Power BI · Python
 
-I'm Ahsan, from Bangladesh, building my skills as a data analyst, one project at a time. I mainly work with Excel, SQL and Power BI, while continuing to develop my Python skills for data analysis.
+Curious about data. Focused on finding answers.
 
-This page is where I keep track of the projects I'm working on, the skills I'm practicing and what I'm learning along the way.
+I'm Ahsan, based in Bangladesh, building practical skills in data analysis and business reporting. I work primarily with Excel, SQL, and Power BI, while developing my Python skills to expand my analytical toolkit.
 
-<p align="center">
+This profile showcases my projects, data-cleaning exercises, dashboards, and ongoing learning as I work toward becoming a Data Analyst.
+
+<p align="left">
   <a href="https://www.linkedin.com/in/ahsanxdata/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:ahsanxdata@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ahsan-data/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0F766E?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:ahsanxdata@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-64748B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+---
 
-## Skills & Tools
-**Excel** - Power Query, Power Pivot, Pivot Tables, XLOOKUP, INDEX/MATCH, data cleaning, charts and reporting
+## Technical Skills
 
-**SQL** - Joins, aggregate functions, window functions, CTEs, views, data cleaning
+| Tool | Skills & Concepts |
+|---|---|
+| **Excel** | Power Query, Power Pivot, Pivot Tables, XLOOKUP, INDEX/MATCH, data cleaning, charts and reporting |
+| **SQL** | Joins, aggregate functions, window functions, CTEs, views and data cleaning |
+| **Power BI** | Power Query, data modeling, DAX, KPI reporting and interactive dashboards |
+| **Python** | Pandas, NumPy and Matplotlib |
+| **Tools** | Git and GitHub |
 
-**Power BI** - Power Query, data modeling, DAX, KPI reporting, interactive dashboards
-
-**Python** - Pandas, NumPy, Matplotlib
-
-**Version Control** - Git, GitHub
-
-
-## Current Project
+## Featured Project
 
 ### HR Attrition Analysis
+
 `Power BI` `SQL` `Excel`
 
-Exploring employee attrition and the factors associated with turnover. The analysis covers departments, job roles, and employee-level factors, using SQL and Power BI to examine and present the findings.
+Exploring employee attrition patterns and factors associated with employee turnover. This project focuses on analyzing attrition across departments, job roles, and employee-level factors, then presenting the analysis through SQL queries and Power BI visualizations.
 
+**Project focus**
+- Examine employee attrition across different categories.
+- Explore patterns in workforce turnover.
+- Develop clear visualizations to communicate analytical findings.
 
-## Currently Learning
-Python for data analysis, statistics, data visualization, dashboard design and business-focused analysis.
+*Project status: In progress.*
 
+## Current Learning Focus
 
-## What You'll Find Here
-- Data analysis projects
-- SQL practice
-- Excel work
+- **Python for Data Analysis:** Data manipulation with Pandas and NumPy.
+- **Statistics:** Building a stronger foundation for interpreting data.
+- **Data Visualization:** Creating clear, informative charts and dashboards.
+- **Business Analysis:** Connecting analytical findings to business questions.
+
+## Explore My Work
+
+This profile is a growing collection of practical exercises and projects, including:
+
+- Data cleaning and transformation
+- SQL queries and analysis
+- Excel-based analysis and reporting
 - Power BI dashboards
-- Python notebooks
-- Data cleaning exercises
-- Learning notes and experiments
+- Python notebooks and experiments
+- Learning notes and technical practice
 
+## Let's Connect
 
-## Connect
-**LinkedIn:** [ahsanxdata](https://www.linkedin.com/in/ahsanxdata/)
-**Portfolio:** [ahsan-data/portfolio](https://github.com/ahsan-data/portfolio)
-**Email:** [ahsanxdata@gmail.com](mailto:ahsanxdata@gmail.com)
+I'm open to learning from other analysts, exchanging ideas, and connecting with people in the data community.
 
+- **LinkedIn:** [ahsanxdata](https://www.linkedin.com/in/ahsanxdata/)
+- **GitHub Portfolio:** [ahsan-data/portfolio](https://github.com/ahsan-data/portfolio)
+- **Email:** [ahsanxdata@gmail.com](mailto:ahsanxdata@gmail.com)
 
-Thanks for stopping by. I’m building my skills one project at a time.
+---
 
-<!--
-**ahsan-data/ahsan-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Learning continuously. Analyzing thoughtfully. Improving with every project.*
