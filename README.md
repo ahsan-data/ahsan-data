@@ -48,11 +48,11 @@ I aim to make data easier to understand, validate, and use when answering busine
 
 | Tool | Skills and Concepts |
 |---|---|
-| <img src="./assets/icons/excel.svg" width="18" alt="Excel" /> **Excel** | Power Query, Pivot Tables, XLOOKUP, INDEX/MATCH, data cleaning, charts, and reporting |
-| <img src="./assets/icons/sql.svg" width="18" alt="SQL" /> **SQL** | Joins, aggregate functions, CTEs, Window Functions, views, and data cleaning |
-| <img src="./assets/icons/power-bi.svg" width="18" alt="Power BI" /> **Power BI** | Power Query, Data Modeling, DAX, KPI reporting, and interactive dashboards |
-| <img src="./assets/icons/python.svg" width="18" alt="Python" /> **Python** | Pandas, NumPy and Matplotlib |
-| <img src="./assets/icons/git.svg" width="18" alt="Git" /> **Git & GitHub** | Version control, repository management, and project documentation |
+| <img src="./assets/icons/excel.svg" width="20" alt="Excel" /> **Excel** | Power Query, Pivot Tables, XLOOKUP, INDEX/MATCH, data cleaning, charts, and reporting |
+| <img src="./assets/icons/sql.svg" width="20" alt="SQL" /> **SQL** | Joins, aggregate functions, CTEs, Window Functions, views, and data cleaning |
+| <img src="./assets/icons/power-bi.svg" width="20" alt="Power BI" /> **Power BI** | Power Query, Data Modeling, DAX, KPI reporting, and interactive dashboards |
+| <img src="./assets/icons/python.svg" width="20" alt="Python" /> **Python** | Pandas, NumPy and Matplotlib |
+| <img src="./assets/icons/git.svg" width="20" alt="Git" /> **Git & GitHub** | Version control, repository management, and project documentation |
 
 </div>
 
@@ -96,7 +96,7 @@ Explore my data analytics projects, including data cleaning, SQL analysis, and b
 - Evaluate product-level performance.
 - Monitor KPIs through interactive filters.
 
-**Tools:** Power BI, Excel
+**Tools:** `Power BI`, `Excel`
 
 [View Project Repository](YOUR_SALES_DASHBOARD_REPOSITORY_URL)
 
@@ -115,7 +115,7 @@ Explore my data analytics projects, including data cleaning, SQL analysis, and b
 - Compare customer groups using relevant metrics.
 - Explore high-value customer segments.
 
-**Tools:** SQL, Excel
+**Tools:** `SQL`, `Excel`
 
 [View Project Repository](YOUR_CUSTOMER_SEGMENTATION_REPOSITORY_URL)
 
@@ -135,7 +135,7 @@ Explore my data analytics projects, including data cleaning, SQL analysis, and b
 - Validate transformations using SQL queries.
 - Document cleaning decisions and results.
 
-**Tools:** PostgreSQL, SQL
+**Tools:** `PostgreSQL`
 
 [View SQL Data Cleaning Projects](https://github.com/ahsan-data/data-cleaning-projects)
 
@@ -172,15 +172,15 @@ I'm interested in connecting with fellow data analysts, learning from the data c
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsanxdata/">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/linkedin.svg" width="20" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/linkedin.svg" width="24" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ahsan-data/portfolio">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/github.svg" width="20" alt="GitHub Portfolio" />
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/github.svg" width="24" alt="GitHub Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ahsanxdata@gmail.com">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/email.svg" width="20" alt="Email" />
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/email.svg" width="24" alt="Email" />
   </a>
 </p>
 </a>
