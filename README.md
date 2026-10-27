@@ -52,15 +52,17 @@ I aim to make data easier to understand, validate, and use when answering busine
 
 ## Technical Skills
 
+## Technical Skills
+
 <div align="center">
 
 | Tool | Skills and Concepts |
 |---|---|
-| <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="22" alt="Excel" /> **[Excel](https://support.microsoft.com/excel)** | [Power Query](https://learn.microsoft.com/en-us/power-query/), Pivot Tables, XLOOKUP, INDEX/MATCH, data cleaning, charts, and reporting |
-| <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="22" alt="PostgreSQL" /> **[SQL / PostgreSQL](https://www.postgresql.org/docs/)** | [Joins](https://www.postgresql.org/docs/current/tutorial-join.html), aggregate functions, [CTEs](https://www.postgresql.org/docs/current/queries-with.html), [window functions](https://www.postgresql.org/docs/current/tutorial-window.html), views, and data cleaning |
-| <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="22" alt="Power BI" /> **[Power BI](https://learn.microsoft.com/en-us/power-bi/)** | [Power Query](https://learn.microsoft.com/en-us/power-query/), [data modeling](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-data-modeling), [DAX](https://learn.microsoft.com/en-us/dax/), KPI reporting, and interactive dashboards |
-| <img src="https://cdn.simpleicons.org/python/3776AB" width="22" alt="Python" /> **[Python](https://docs.python.org/3/)** | [Pandas](https://pandas.pydata.org/docs/), [NumPy](https://numpy.org/doc/), and [Matplotlib](https://matplotlib.org/stable/) |
-| <img src="https://cdn.simpleicons.org/git/F05032" width="22" alt="Git" /> **[Git & GitHub](https://docs.github.com/)** | Version control, repository management, and project documentation |
+| <img src="./assets/icons/excel.svg" width="18" alt="Excel" /> **[Excel](https://support.microsoft.com/excel)** | Power Query, Pivot Tables, XLOOKUP, INDEX/MATCH, data cleaning, charts, and reporting |
+| <img src="./assets/icons/sql.svg" width="18" alt="SQL" /> **[SQL / PostgreSQL](https://www.postgresql.org/docs/)** | Joins, aggregate functions, CTEs, Window Functions, views, and data cleaning |
+| <img src="./assets/icons/power-bi.svg" width="18" alt="Power BI" /> **[Power BI](https://learn.microsoft.com/en-us/power-bi/)** | Power Query, Data Modeling, DAX, KPI reporting, and interactive dashboards |
+| <img src="./assets/icons/python.svg" width="18" alt="Python" /> **[Python](https://docs.python.org/3/)** | Pandas, NumPy and Matplotlib |
+| <img src="./assets/icons/git.svg" width="18" alt="Git" /> **[Git & GitHub](https://docs.github.com/)** | Version control, repository management, and project documentation |
 
 </div>
 
@@ -181,16 +183,16 @@ I'm interested in connecting with fellow data analysts, learning from the data c
 <div align="center">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahsanxdata/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ahsanxdata/">
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/linkedin.svg" width="20" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ahsan-data/portfolio" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="30" alt="GitHub Portfolio" />
+  <a href="https://github.com/ahsan-data/portfolio">
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/github.svg" width="20" alt="GitHub Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ahsanxdata@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email" />
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/email.svg" width="20" alt="Email" />
   </a>
 </p>
 </a>
