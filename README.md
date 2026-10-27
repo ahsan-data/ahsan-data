@@ -172,15 +172,15 @@ I'm interested in connecting with fellow data analysts, learning from the data c
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsanxdata/">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/linkedin.svg" width="24" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/linkedin.svg" width="28" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ahsan-data/portfolio">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/github.svg" width="24" alt="GitHub Portfolio" />
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/github.svg" width="28" alt="GitHub Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ahsanxdata@gmail.com">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/email.svg" width="24" alt="Email" />
+    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/email.svg" width="28" alt="Email" />
   </a>
 </p>
 </a>
