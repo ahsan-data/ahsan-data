@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/hero?username=ahsan-data&theme=zen" alt="Ahsan Chowdhury GitHub profile banner" width="100%" />
+<img src="https://github.com/ahsan-data/ahsan-data/blob/main/assets/images/banner-ahsan.png" alt="Ahsan GitHub profile banner" width="100%" />
 
 ### Aspiring Data Analyst
 
@@ -172,15 +172,15 @@ I'm interested in connecting with fellow data analysts, learning from the data c
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsanxdata/">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/linkedin.svg" width="28" alt="LinkedIn" />
+    <img src="https://github.com/ahsan-data/ahsan-data/blob/main/assets/icons/linkedin.svg" width="28" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ahsan-data/portfolio">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/github.svg" width="28" alt="GitHub Portfolio" />
+    <img src="https://github.com/ahsan-data/ahsan-data/blob/main/assets/icons/github.svg" width="28" alt="GitHub Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ahsanxdata@gmail.com">
-    <img src="https://raw.githubusercontent.com/ahsan-data/ahsan-data/main/assets/icons/email.svg" width="28" alt="Email" />
+    <img src="https://github.com/ahsan-data/ahsan-data/blob/main/assets/icons/email.svg" width="28" alt="Email" />
   </a>
 </p>
 </a>
