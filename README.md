@@ -36,21 +36,11 @@
 
 I'm Ahsan, based in Bangladesh, developing practical skills in data analysis and business reporting. I use hands-on projects to strengthen my understanding of data cleaning, SQL querying, spreadsheet analysis, and dashboard development.
 
-My primary tools are **Excel, SQL, and Power BI**, while I continue developing my Python and statistical analysis skills.
+My primary tools are **Excel, SQL and Power BI**, while I continue developing my Python and statistical analysis skills.
 
 I aim to make data easier to understand, validate, and use when answering business questions.
 
-- **Location:** Bangladesh
-- **Career goal:** Data Analyst
-- **Core tools:** Excel, SQL, Power BI
-- **Currently learning:** Python, statistics, and advanced analytical techniques
-- **Interests:** Data cleaning, business intelligence, reporting, and exploratory data analysis
-
 ---
-
-## Technical Skills
-
-## Technical Skills
 
 ## Technical Skills
 
@@ -58,11 +48,11 @@ I aim to make data easier to understand, validate, and use when answering busine
 
 | Tool | Skills and Concepts |
 |---|---|
-| <img src="./assets/icons/excel.svg" width="18" alt="Excel" /> **[Excel](https://support.microsoft.com/excel)** | Power Query, Pivot Tables, XLOOKUP, INDEX/MATCH, data cleaning, charts, and reporting |
-| <img src="./assets/icons/sql.svg" width="18" alt="SQL" /> **[SQL / PostgreSQL](https://www.postgresql.org/docs/)** | Joins, aggregate functions, CTEs, Window Functions, views, and data cleaning |
-| <img src="./assets/icons/power-bi.svg" width="18" alt="Power BI" /> **[Power BI](https://learn.microsoft.com/en-us/power-bi/)** | Power Query, Data Modeling, DAX, KPI reporting, and interactive dashboards |
-| <img src="./assets/icons/python.svg" width="18" alt="Python" /> **[Python](https://docs.python.org/3/)** | Pandas, NumPy and Matplotlib |
-| <img src="./assets/icons/git.svg" width="18" alt="Git" /> **[Git & GitHub](https://docs.github.com/)** | Version control, repository management, and project documentation |
+| <img src="./assets/icons/excel.svg" width="18" alt="Excel" /> **Excel** | Power Query, Pivot Tables, XLOOKUP, INDEX/MATCH, data cleaning, charts, and reporting |
+| <img src="./assets/icons/sql.svg" width="18" alt="SQL" /> **SQL** | Joins, aggregate functions, CTEs, Window Functions, views, and data cleaning |
+| <img src="./assets/icons/power-bi.svg" width="18" alt="Power BI" /> **Power BI** | Power Query, Data Modeling, DAX, KPI reporting, and interactive dashboards |
+| <img src="./assets/icons/python.svg" width="18" alt="Python" /> **Python** | Pandas, NumPy and Matplotlib |
+| <img src="./assets/icons/git.svg" width="18" alt="Git" /> **Git & GitHub** | Version control, repository management, and project documentation |
 
 </div>
 
@@ -167,8 +157,6 @@ Explore my data analytics projects, including data cleaning, SQL analysis, and b
 ## GitHub Activity
 
 <div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=ahsan-data&theme=zen" alt="GitHub profile statistics" width="100%" />
 
 <img src="https://www.gitskins.com/api/section/heatmap?username=ahsan-data&theme=zen" alt="GitHub contribution activity" width="100%" />
 
